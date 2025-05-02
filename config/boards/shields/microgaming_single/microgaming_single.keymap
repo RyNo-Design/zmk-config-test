@@ -41,6 +41,7 @@
                         &trans &kp N1 &kp N2 &kp N3 &trans &trans &trans
                         &trans &trans &trans &trans &trans &trans &trans
                         &trans &trans &trans &trans &trans
+                    >;
          };
 
          layer_5 {
@@ -48,8 +49,7 @@
                         &trans &trans &trans &trans &trans &trans &trans
                         &trans &trans &trans &trans &kp DOT &kp SLASH &kp ASTERISK
                         &trans &trans &trans &kp SPACE &trans
-
-
+                    >;
          };
      };
  };
