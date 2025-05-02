@@ -46,7 +46,7 @@
          layer_5 {
             bindings = <
                         &trans &trans &trans &trans &trans &trans &trans
-                        &trans &trans &trans &trans &kp PERIOD &kp SLASH &kp ASTERISK
+                        &trans &trans &trans &trans &kp DOT &kp FSLH &kp STAR
                         &trans &trans &trans &kp SPACE &trans
 
 
